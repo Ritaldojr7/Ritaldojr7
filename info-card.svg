@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="300" viewBox="0 0 490 300" role="img" aria-label="Profile info card">
+<rect width="490" height="300" fill="#0d1117"/>
+<rect x="8" y="8" width="474" height="284" rx="14" ry="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+<circle cx="28" cy="28" r="5.5" fill="#ff5f57"/>
+<circle cx="48" cy="28" r="5.5" fill="#febc2e"/>
+<circle cx="68" cy="28" r="5.5" fill="#28c840"/>
+<text x="28" y="58" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="15" font-weight="700">Ritaldojr7 @github</text>
+<line x1="28" y1="68" x2="462" y2="68" stroke="#30363d" stroke-width="1"/>
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.35s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="-16 0" to="0 0" dur="0.45s" begin="0.35s" fill="freeze"/>
+  <text x="28" y="92" fill="#79c0ff" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="13" font-weight="700">Now</text>
+  <text x="130" y="92" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="13">Building animated profile READMEs</text>
+</g>
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.47s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="-16 0" to="0 0" dur="0.45s" begin="0.47s" fill="freeze"/>
+  <text x="28" y="120" fill="#ffa657" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="13" font-weight="700">Prev</text>
+  <text x="130" y="120" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="13">Full-stack &amp; automation projects</text>
+</g>
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.59s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="-16 0" to="0 0" dur="0.45s" begin="0.59s" fill="freeze"/>
+  <text x="28" y="148" fill="#7ee787" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="13" font-weight="700">Stack</text>
+  <text x="130" y="148" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="13">Python · TypeScript · Docker · n8n</text>
+</g>
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.71s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="-16 0" to="0 0" dur="0.45s" begin="0.71s" fill="freeze"/>
+  <text x="28" y="176" fill="#d2a8ff" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="13" font-weight="700">Editor</text>
+  <text x="130" y="176" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="13">Cursor + Neovim</text>
+</g>
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.83s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="-16 0" to="0 0" dur="0.45s" begin="0.83s" fill="freeze"/>
+  <text x="28" y="204" fill="#ff7b72" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="13" font-weight="700">Highlights</text>
+  <text x="130" y="204" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="13">Open source · CI/CD · workflows</text>
+</g>
+<g opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.95s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="-16 0" to="0 0" dur="0.45s" begin="0.95s" fill="freeze"/>
+  <text x="28" y="232" fill="#a5d6ff" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="13" font-weight="700">Contact</text>
+  <text x="130" y="232" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="13">ritaldojr7@users.noreply.github.com</text>
+</g>
+</svg>

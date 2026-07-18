@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="370" height="300" viewBox="0 0 370 300" role="img" aria-label="ASCII portrait">
+<rect width="370" height="300" fill="#0d1117"/>
+<defs>
+  <style><![CDATA[
+    @keyframes row-reveal {
+      from { width: 0; }
+      to { width: 146.25px; }
+    }
+    .reveal {
+      animation: row-reveal 0.35s ease-out both;
+      width: 146.25px;
+    }
+  ]]></style>
+  <clipPath id="row-clip-0" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="0.00" width="146.25" height="4.69" style="animation-delay:0.00s"/>
+  </clipPath>
+  <clipPath id="row-clip-1" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="4.69" width="146.25" height="4.69" style="animation-delay:0.04s"/>
+  </clipPath>
+  <clipPath id="row-clip-2" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="9.38" width="146.25" height="4.69" style="animation-delay:0.09s"/>
+  </clipPath>
+  <clipPath id="row-clip-3" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="14.06" width="146.25" height="4.69" style="animation-delay:0.14s"/>
+  </clipPath>
+  <clipPath id="row-clip-4" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="18.75" width="146.25" height="4.69" style="animation-delay:0.18s"/>
+  </clipPath>
+  <clipPath id="row-clip-5" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="23.44" width="146.25" height="4.69" style="animation-delay:0.22s"/>
+  </clipPath>
+  <clipPath id="row-clip-6" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="28.12" width="146.25" height="4.69" style="animation-delay:0.27s"/>
+  </clipPath>
+  <clipPath id="row-clip-7" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="32.81" width="146.25" height="4.69" style="animation-delay:0.32s"/>
+  </clipPath>
+  <clipPath id="row-clip-8" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="37.50" width="146.25" height="4.69" style="animation-delay:0.36s"/>
+  </clipPath>
+  <clipPath id="row-clip-9" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="42.19" width="146.25" height="4.69" style="animation-delay:0.40s"/>
+  </clipPath>
+  <clipPath id="row-clip-10" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="46.88" width="146.25" height="4.69" style="animation-delay:0.45s"/>
+  </clipPath>
+  <clipPath id="row-clip-11" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="51.56" width="146.25" height="4.69" style="animation-delay:0.49s"/>
+  </clipPath>
+  <clipPath id="row-clip-12" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="56.25" width="146.25" height="4.69" style="animation-delay:0.54s"/>
+  </clipPath>
+  <clipPath id="row-clip-13" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="60.94" width="146.25" height="4.69" style="animation-delay:0.58s"/>
+  </clipPath>
+  <clipPath id="row-clip-14" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="65.62" width="146.25" height="4.69" style="animation-delay:0.63s"/>
+  </clipPath>
+  <clipPath id="row-clip-15" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="70.31" width="146.25" height="4.69" style="animation-delay:0.67s"/>
+  </clipPath>
+  <clipPath id="row-clip-16" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="75.00" width="146.25" height="4.69" style="animation-delay:0.72s"/>
+  </clipPath>
+  <clipPath id="row-clip-17" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="79.69" width="146.25" height="4.69" style="animation-delay:0.77s"/>
+  </clipPath>
+  <clipPath id="row-clip-18" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="84.38" width="146.25" height="4.69" style="animation-delay:0.81s"/>
+  </clipPath>
+  <clipPath id="row-clip-19" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="89.06" width="146.25" height="4.69" style="animation-delay:0.85s"/>
+  </clipPath>
+  <clipPath id="row-clip-20" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="93.75" width="146.25" height="4.69" style="animation-delay:0.90s"/>
+  </clipPath>
+  <clipPath id="row-clip-21" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="98.44" width="146.25" height="4.69" style="animation-delay:0.94s"/>
+  </clipPath>
+  <clipPath id="row-clip-22" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="103.12" width="146.25" height="4.69" style="animation-delay:0.99s"/>
+  </clipPath>
+  <clipPath id="row-clip-23" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="107.81" width="146.25" height="4.69" style="animation-delay:1.03s"/>
+  </clipPath>
+  <clipPath id="row-clip-24" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="112.50" width="146.25" height="4.69" style="animation-delay:1.08s"/>
+  </clipPath>
+  <clipPath id="row-clip-25" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="117.19" width="146.25" height="4.69" style="animation-delay:1.12s"/>
+  </clipPath>
+  <clipPath id="row-clip-26" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="121.88" width="146.25" height="4.69" style="animation-delay:1.17s"/>
+  </clipPath>
+  <clipPath id="row-clip-27" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="126.56" width="146.25" height="4.69" style="animation-delay:1.21s"/>
+  </clipPath>
+  <clipPath id="row-clip-28" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="131.25" width="146.25" height="4.69" style="animation-delay:1.26s"/>
+  </clipPath>
+  <clipPath id="row-clip-29" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="135.94" width="146.25" height="4.69" style="animation-delay:1.30s"/>
+  </clipPath>
+  <clipPath id="row-clip-30" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="140.62" width="146.25" height="4.69" style="animation-delay:1.35s"/>
+  </clipPath>
+  <clipPath id="row-clip-31" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="145.31" width="146.25" height="4.69" style="animation-delay:1.40s"/>
+  </clipPath>
+  <clipPath id="row-clip-32" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="150.00" width="146.25" height="4.69" style="animation-delay:1.44s"/>
+  </clipPath>
+  <clipPath id="row-clip-33" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="154.69" width="146.25" height="4.69" style="animation-delay:1.48s"/>
+  </clipPath>
+  <clipPath id="row-clip-34" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="159.38" width="146.25" height="4.69" style="animation-delay:1.53s"/>
+  </clipPath>
+  <clipPath id="row-clip-35" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="164.06" width="146.25" height="4.69" style="animation-delay:1.57s"/>
+  </clipPath>
+  <clipPath id="row-clip-36" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="168.75" width="146.25" height="4.69" style="animation-delay:1.62s"/>
+  </clipPath>
+  <clipPath id="row-clip-37" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="173.44" width="146.25" height="4.69" style="animation-delay:1.67s"/>
+  </clipPath>
+  <clipPath id="row-clip-38" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="178.12" width="146.25" height="4.69" style="animation-delay:1.71s"/>
+  </clipPath>
+  <clipPath id="row-clip-39" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="182.81" width="146.25" height="4.69" style="animation-delay:1.75s"/>
+  </clipPath>
+  <clipPath id="row-clip-40" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="187.50" width="146.25" height="4.69" style="animation-delay:1.80s"/>
+  </clipPath>
+  <clipPath id="row-clip-41" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="192.19" width="146.25" height="4.69" style="animation-delay:1.84s"/>
+  </clipPath>
+  <clipPath id="row-clip-42" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="196.88" width="146.25" height="4.69" style="animation-delay:1.89s"/>
+  </clipPath>
+  <clipPath id="row-clip-43" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="201.56" width="146.25" height="4.69" style="animation-delay:1.93s"/>
+  </clipPath>
+  <clipPath id="row-clip-44" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="206.25" width="146.25" height="4.69" style="animation-delay:1.98s"/>
+  </clipPath>
+  <clipPath id="row-clip-45" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="210.94" width="146.25" height="4.69" style="animation-delay:2.02s"/>
+  </clipPath>
+  <clipPath id="row-clip-46" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="215.62" width="146.25" height="4.69" style="animation-delay:2.07s"/>
+  </clipPath>
+  <clipPath id="row-clip-47" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="220.31" width="146.25" height="4.69" style="animation-delay:2.11s"/>
+  </clipPath>
+  <clipPath id="row-clip-48" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="225.00" width="146.25" height="4.69" style="animation-delay:2.16s"/>
+  </clipPath>
+  <clipPath id="row-clip-49" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="229.69" width="146.25" height="4.69" style="animation-delay:2.21s"/>
+  </clipPath>
+  <clipPath id="row-clip-50" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="234.38" width="146.25" height="4.69" style="animation-delay:2.25s"/>
+  </clipPath>
+  <clipPath id="row-clip-51" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="239.06" width="146.25" height="4.69" style="animation-delay:2.29s"/>
+  </clipPath>
+  <clipPath id="row-clip-52" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="243.75" width="146.25" height="4.69" style="animation-delay:2.34s"/>
+  </clipPath>
+  <clipPath id="row-clip-53" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="248.44" width="146.25" height="4.69" style="animation-delay:2.38s"/>
+  </clipPath>
+  <clipPath id="row-clip-54" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="253.12" width="146.25" height="4.69" style="animation-delay:2.43s"/>
+  </clipPath>
+  <clipPath id="row-clip-55" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="257.81" width="146.25" height="4.69" style="animation-delay:2.48s"/>
+  </clipPath>
+  <clipPath id="row-clip-56" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="262.50" width="146.25" height="4.69" style="animation-delay:2.52s"/>
+  </clipPath>
+  <clipPath id="row-clip-57" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="267.19" width="146.25" height="4.69" style="animation-delay:2.56s"/>
+  </clipPath>
+  <clipPath id="row-clip-58" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="271.88" width="146.25" height="4.69" style="animation-delay:2.61s"/>
+  </clipPath>
+  <clipPath id="row-clip-59" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="276.56" width="146.25" height="4.69" style="animation-delay:2.65s"/>
+  </clipPath>
+  <clipPath id="row-clip-60" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="281.25" width="146.25" height="4.69" style="animation-delay:2.70s"/>
+  </clipPath>
+  <clipPath id="row-clip-61" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="285.94" width="146.25" height="4.69" style="animation-delay:2.75s"/>
+  </clipPath>
+  <clipPath id="row-clip-62" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="290.62" width="146.25" height="4.69" style="animation-delay:2.79s"/>
+  </clipPath>
+  <clipPath id="row-clip-63" clipPathUnits="userSpaceOnUse">
+    <rect class="reveal" x="111.88" y="295.31" width="146.25" height="4.69" style="animation-delay:2.83s"/>
+  </clipPath>
+</defs>
+<text x="111.88" y="3.84" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-0)">                                                    </text>
+<text x="111.88" y="8.53" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-1)">                         .`````...                  </text>
+<text x="111.88" y="13.22" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-2)">                    ...`:*sssc+***++=-`..           </text>
+<text x="111.88" y="17.91" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-3)">                  .``:-*ss##s*c*ssc**cc*+=-`        </text>
+<text x="111.88" y="22.59" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-4)">         ````....`:-=*s#%##%#sss#s##sssssc**.       </text>
+<text x="111.88" y="27.28" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-5)">         ...```-*ccss#%%ss%%%%#s%@%%%%%%%%%%+       </text>
+<text x="111.88" y="31.97" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-6)">             `=c#%%%%#ssccscccccs#%%%%%%%@%@c       </text>
+<text x="111.88" y="36.66" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-7)">            `+s###s*+++=++++++*+++**s#%%%%%@#`      </text>
+<text x="111.88" y="41.34" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-8)">           .=s##s+=-===+++**+**=+++++**s%%%%%-.     </text>
+<text x="111.88" y="46.03" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-9)">          :+c#s*=========++++*+***++===-*#%%%*`.    </text>
+<text x="111.88" y="50.72" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-10)">        .=ss#c=====--------=========--=--*##%s+`    </text>
+<text x="111.88" y="55.41" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-11)">        =ss#c===--:-------=======+===----=c###s-    </text>
+<text x="111.88" y="60.09" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-12)">       `cssc+=--=+*ssssc*+++++*cs####sc+=-=s###*.   </text>
+<text x="111.88" y="64.78" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-13)">       -cssc+-=*s###%###sc*==+cs######sc*==+###s`   </text>
+<text x="111.88" y="69.47" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-14)">      :ccss*=+cccccs#####s+`::=####scc*+**==c##c.   </text>
+<text x="111.88" y="74.16" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-15)">      +ss#c+*cccc**cs##%%c:`:::c%%##sc*+-**=+#%*.   </text>
+<text x="111.88" y="78.84" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-16)">      *sss**csccccs####%c::::-::c##%%%%#**c+=c%*.   </text>
+<text x="111.88" y="83.53" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-17)">      *##s+cs#s#%%%%ssc+-***c*=-`=*s#####sc*=*%=    </text>
+<text x="111.88" y="88.22" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-18)">      -s#c*cssc***+==---c##ssss#*`:--+****++=+#:    </text>
+<text x="111.88" y="92.91" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-19)">      .+#c++=-::`:::--=c%%#scc#%%+=+-::--==+++s:.   </text>
+<text x="111.88" y="97.59" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-20)">       `sc==++==--===--+sccssc+=++=++=----====*cc.  </text>
+<text x="111.88" y="102.28" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-21)">      `-*=---=--+*+==---++*csc*=----=+==-=====+*s:  </text>
+<text x="111.88" y="106.97" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-22)">    .-++====--=+csc*+=--=**cccc*=-----=====++=+*c-  </text>
+<text x="111.88" y="111.66" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-23)">`:=+***++=+++++=+s##scs##########s*=====+==++=***`  </text>
+<text x="111.88" y="116.34" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-24)">*****+++++++=--==+css#sc**++****cs###s*++===+=+==.  </text>
+<text x="111.88" y="121.03" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-25)">*+***++++=====+*c**c***cssssssscc++*cccc*===+=+==   </text>
+<text x="111.88" y="125.72" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-26)">****+++++++++*c##c**cccs###%%%%##s*+=++*c+==+=+*`   </text>
+<text x="111.88" y="130.41" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-27)">*++*****+++*s##%##scsscccccssssccc***+++c*====:`    </text>
+<text x="111.88" y="135.09" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-28)">++***ccc**cs%%%%%##s##c*++=====--=+***++**==+=.     </text>
+<text x="111.88" y="139.78" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-29)">++++**ccccs%%%#%%#ss##c*******++===++++=+*+=*=      </text>
+<text x="111.88" y="144.47" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-30)">+++**ccss#%%###%#ss#%ssscsssssscc*++=+++++++c-      </text>
+<text x="111.88" y="149.16" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-31)">****csss%#s######s#%##ssssss#sssscc*++++++++*.      </text>
+<text x="111.88" y="153.84" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-32)">***csc:+s+:+cs####################sscc***ccc`       </text>
+<text x="111.88" y="158.53" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-33)">*+**+-::``:`:=*#%#%%%#%#######%#%%####s##c+`        </text>
+<text x="111.88" y="163.22" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-34)">++=:..``...  .`-s%%%%%%%%%%%%%%%%%%%%%##*`          </text>
+<text x="111.88" y="167.91" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-35)">+=:````....   ..:c%%%%%%%%%%%%%%%%%%##s*=:          </text>
+<text x="111.88" y="172.59" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-36)">+-:```....      .-s%%%%%%%%%%%%%###s***+=-          </text>
+<text x="111.88" y="177.28" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-37)">=:```..         `*cs%%%%%%%%####s*++==++=-.         </text>
+<text x="111.88" y="181.97" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-38)">-:``....        =cccs###%%%###sc*++=--=+==.         </text>
+<text x="111.88" y="186.66" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-39)">-:`.....       `c*ccss######ssccc*++==+++==         </text>
+<text x="111.88" y="191.34" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-40)">``......      .+#*csss######sssscc*++++++=#:        </text>
+<text x="111.88" y="196.03" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-41)">..... .. ..:=*s#%cssss########sssc******+*@+        </text>
+<text x="111.88" y="200.72" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-42)"> ........`=cs##%%#sss###%%%%%##ssc******c#@c        </text>
+<text x="111.88" y="205.41" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-43)">..````..`*ss##%%%%########%%###ssc**ccccs%@#.       </text>
+<text x="111.88" y="210.09" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-44)">..```. `c#sccs%%%%%############ssccccccs#%@%`       </text>
+<text x="111.88" y="214.78" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-45)">...`. :c##ssss#%%%@%#####%#######sssssss#%@%:       </text>
+<text x="111.88" y="219.47" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-46)">  .  -########%%c+%%%###%%%%%%%##ssss###%%@@-       </text>
+<text x="111.88" y="224.16" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-47)">    =%%#sccs##c++=c@%%%%%%%%%%%#ssss####%%%@=       </text>
+<text x="111.88" y="228.84" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-48)">  `c@#s+-:``==-=++=%@%%%%%%%%%###ss#####%%%@*       </text>
+<text x="111.88" y="233.53" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-49)">`-cc=:.     .===++=*@%%%%%%%%%%%#ss#####%%%@c-      </text>
+<text x="111.88" y="238.22" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-50)">::.          `+++++=#%%##%%%%%%##ss#s####%%@*+-     </text>
+<text x="111.88" y="242.91" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-51)">              :+++*=+%%#s#######ssss###%%%%#++*.    </text>
+<text x="111.88" y="247.59" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-52)">               :****=*#sscssss#ssssss####%#++**.    </text>
+<text x="111.88" y="252.28" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-53)">                -***+=*cccssssssssccs####s+++*+     </text>
+<text x="111.88" y="256.97" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-54)">                 -c**+=##sssssssssss##%%c++*+*=     </text>
+<text x="111.88" y="261.66" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-55)">                  -cc*+*@@@%%%%#####%%#*++****`     </text>
+<text x="111.88" y="266.34" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-56)">                   -ccc+c@%@@@@@@@@@%s++*****=.     </text>
+<text x="111.88" y="271.03" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-57)">                    `*sc+c%%@@%%@@%s*+**c**+-`      </text>
+<text x="111.88" y="275.72" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-58)">                     .=ss+s%%%@%#s**ccc*+-`..       </text>
+<text x="111.88" y="280.41" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-59)">.                      `+ccs%@#c*cccc+-`.           </text>
+<text x="111.88" y="285.09" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-60)">                         .:-=+====-`.               </text>
+<text x="111.88" y="289.78" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-61)">                                                    </text>
+<text x="111.88" y="294.47" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-62)">                                                    </text>
+<text x="111.88" y="299.16" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace" font-size="4.69" textLength="146.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve" clip-path="url(#row-clip-63)">                                                    </text>
+</svg>
